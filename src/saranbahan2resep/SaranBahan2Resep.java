@@ -17,7 +17,7 @@ public class SaranBahan2Resep {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String identitas = "nama lengkap / kelas / no";
+        String identitas = "Muhammad Azhar Reza Faishal / XR5 / 20";
         System.out.println("Identitas : "+ identitas);
         
         System.out.print("\nSaran Resep dari Bahan Milik Anda\n");
